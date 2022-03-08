@@ -13,14 +13,14 @@ This program executes Conway's game of life.
 A grid is drawn onscreen, the "alive" and "dead" cells are indicated on the grid
 and evolution of cells according to the Game of Life rules is shown.
 
-###Known bugs/problems:
+### Known bugs/problems:
 - When the evolution of the game is stopped, the reset key does not work.
 - When the reset key is repeatedly pressed the animation halts/slow down 
   sometimes.
 - While resetting the game the generation counter shows an inaccurate number
   for a brief period.
 
-###Sources  
+### Sources  
 - Examples in processing.org
   - Arrays
   - Array 2D
